@@ -1,1 +1,1 @@
-This is another story. Starting newly too.
+This is another story---also mergin this to master branch---as it is good enough to merge. Starting newly too.
